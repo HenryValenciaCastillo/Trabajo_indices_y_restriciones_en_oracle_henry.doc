@@ -2,7 +2,7 @@
 
 **Asignatura:** Bases de Datos Avanzadas
 **Alumno:** Henry Alexander Valencia Castillo
-**Profesor: Deivis Eduard Ramirez Martinez
+**Profesor:** Deivis Eduard Ramirez Martinez
 **Fecha:** 23-11-2026
 
 ## Descripción
